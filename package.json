@@ -11,7 +11,7 @@
   "dependencies": {
     "cfenv": "^1.2.2",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jssip": "^3.3.11",
     "routes": "^2.1.0"
   }
